@@ -27,5 +27,5 @@
 - [x]  Google Fonts.
 - [x]  Imagens otimizadas com `alt` descritivo.
 - [x]  README com papéis, paleta, fontes e decisões.
-- [ ]  Site no ar.
+- [x]  Site no ar.
 - [ ]  Vídeo de demonstração.
