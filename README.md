@@ -3,7 +3,7 @@
   O projeto consiste num site institucional estático desenvolvido com HTML5 e CSS3, representando a marca fictícia CookieTheo, uma loja de cookies artesanais (estilo cafeteria) inspirada pelo gato de estimação Theo. Ele foca em HTML semântico, organização de CSS, acessibilidade básica e design responsivo.
 
 **Autora e Papéis:**
-- Larissa Lira — Desenvolvimento da estrutura HTML e conteúdo textual, estilização no CSS e criação de imagens, ícones e ajustes visuais finais.
+- Larissa Lira — Responsável pelo desenvolvimento da estrutura HTML e acessibilidade, estilização no CSS, layout e componentes, estilo e documentação. 
 
 **Paleta de Cores utilizada (hexadecimal):**
 - Marrom escuro	#7b542f
@@ -28,4 +28,4 @@
 - [x]  Imagens otimizadas com `alt` descritivo.
 - [x]  README com papéis, paleta, fontes e decisões.
 - [x]  Site no ar.
-- [ ]  Vídeo de demonstração.
+- [x]  Vídeo de demonstração.
